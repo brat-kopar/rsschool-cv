@@ -1,1 +1,1 @@
-# rsschool-cv
+https://brat-kopar.github.io/rsschool-cv/cv
